@@ -4,7 +4,7 @@
 
 ### `programmer` · `artist` · `storywriter`
 
-<img src="[https://capsule-render.vercel.app/api?](https://i.pinimg.com/originals/40/0a/e9/400ae90ab920b201f8f0fbbbb1f4c61b.gif)type=waving&color=ff6b81&height=120&section=header"/>
+<img src="[[https://capsule-render.vercel.app/api?](https://i.pinimg.com/originals/40/0a/e9/400ae90ab920b201f8f0fbbbb1f4c61b.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKg0UzP_CH_F-wszoS_8fP6RdqcNGpIQ0ftW0GyP4DKVpyORXTDCHz89BX&s=10))type=waving&color=ff6b81&height=120&section=header"/>
 
 </div>
 
@@ -60,7 +60,7 @@
 
 ### ✨✨
 
-<img src="[https://capsule-render.vercel.app/api?](https://i.pinimg.com/originals/40/0a/e9/400ae90ab920b201f8f0fbbbb1f4c61b.gif)type=waving&color=ff6b81&height=100&section=footer"/>
+<img src="[https://capsule-render.vercel.app/api?](https://i.pinimg.com/originals/40/0a/e9/400ae90ab920b201f8f0fbbbb1f4c61b.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKg0UzP_CH_F-wszoS_8fP6RdqcNGpIQ0ftW0GyP4DKVpyORXTDCHz89BX&s=10)type=waving&color=ff6b81&height=100&section=footer"/>
 
 </div>
 
