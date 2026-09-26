@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- HERO TOP HEADER -->
-  <img src="https://vercel.app⭐&fontSize=50&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="[https://vercel.app](https://64.media.tumblr.com/71ed65d32b005d59d6781fb96a87cd61/0f3262fdaeb2f9a4-43/s1280x1920/4720006ed49ab17e9bd0269c4cd25913cf312054.jpg)⭐&fontSize=50&animation=twinkling&fontColor=ffffff" width="100%" />
 
   <p>✨ <b>programmer • artist • storywriter</b> ✨</p>
 
   <p>
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
+    <img src="<img width="236" height="218" alt="image" src="https://github.com/user-attachments/assets/ea81bb18-b691-4a15-a67d-64b2433c0f67" />
+    <img src="[https://shields.io](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGhcytfb5Ty1srN2aa_XRcj9A-cNjmZR_PdOrWNoeSHqlR06QH2Yvtawk&s=10)" />
   </p>
 
 </div>
