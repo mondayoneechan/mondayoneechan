@@ -1,69 +1,174 @@
 <div align="center">
 
-# Alo
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=F8C8E8&text=Alo&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=40">
 
-### `programmer` · `artist` · `storywriter`
+<br>
 
-<img src="[[https://capsule-render.vercel.app/api?](https://i.pinimg.com/originals/40/0a/e9/400ae90ab920b201f8f0fbbbb1f4c61b.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKg0UzP_CH_F-wszoS_8fP6RdqcNGpIQ0ftW0GyP4DKVpyORXTDCHz89BX&s=10))type=waving&color=ff6b81&height=120&section=header"/>
+### ✦ programmer · artist · storywriter ✦
 
-</div>
-
----
-
-<div align="center">
-
-## 🌸 abt mi 🌸
+`｡ﾟ•┈୨♡୧┈•ﾟ｡`
 
 </div>
 
-> 💻 I like coding and making random projects  
-> 🎨 I draw characters and random things  
-> ✍️ I write stories and random AUs  
-> 🧪 I like experimenting with stuff (and usually break them...)  
-> 🌱 Still learning  
-> 💭 Well, I guess I really love random stuff (that's positive)
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## ୨୧ abt mi ୨୧
+
+💻 I like coding and making random projects  
+🎨 I draw characters and random things  
+✍️ I write stories and random AUs  
+🧪 I like experimenting with stuff (and usually break them...)  
+🌱 Still learning  
+☕ Well, I guess I really love random stuff that's positive
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="YOUR-DREAMY-BANNER-IMAGE-HERE" width="250">
+
+`♡` `♡` `♡`
+
+**a little corner of random things**
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-### 💗 learnin 💗
+## ୨୧ learning ୨୧
 
 `HTML`　`CSS`　`JavaScript`　`GitHub`　`Recursion`
 
 </div>
 
----
-
-<div align="center">
-
-## 🍰 projects i made 🍰
-
-| Project | What is it? |
-|:---:|:---|
-| 🧮 **Ayam Kalkunlater** | An absolute peak ayam kalkunlater with light & dark mode |
-| 💬 **ChatTime** | A chat project with two buttons of the Crystalinks |
-| 🎮 **CRYSTALONE** | A choice text RPG where you play as— okay, I won't spoil it |
-
-</div>
-
----
-
-<div align="center">
-
-## 🎀 random facts idk 🎀
-
-🌷 I like drawing, tryna draw on computer now  
-🌷 I make characters and stories  
-🌷 I make random projects  
-🌷 Sometimes you just want to make a simple dang project but then you keep building and building until it breaks
+<table align="center">
+<tr>
+<td align="center">☁️<br><b>HTML</b><br>────────</td>
+<td align="center">🫧<br><b>CSS</b><br>────────</td>
+<td align="center">🌸<br><b>JavaScript</b><br>──────</td>
+<td align="center">⭐<br><b>GitHub</b><br>────────</td>
+<td align="center">🍬<br><b>Recursion</b><br>──────</td>
+</tr>
+</table>
 
 <br>
 
-### ✨✨
+<div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?](https://i.pinimg.com/originals/40/0a/e9/400ae90ab920b201f8f0fbbbb1f4c61b.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKg0UzP_CH_F-wszoS_8fP6RdqcNGpIQ0ftW0GyP4DKVpyORXTDCHz89BX&s=10)type=waving&color=ff6b81&height=100&section=footer"/>
+# 🍰 projects i made 🍰
+
+`╭───────────────୨୧───────────────╮`
 
 </div>
 
-<!--
-**mondayoneechan/mondayoneechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<table align="center" width="90%">
+<tr>
+<td align="center" width="30%">
+
+### 🍰
+
+**Ayam Kalkunlater**
+
+</td>
+
+<td>
+
+An absolute peak ayam kalkunlater with light & dark mode
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ☁️
+
+**ChatTime**
+
+</td>
+
+<td>
+
+A chat project with two buttons of the Crystalinks
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 💜
+
+**CRYSTALONE**
+
+</td>
+
+<td>
+
+A choice text RPG where you play as— okay, I won't spoil it
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`╰───────────────୨୧───────────────╯`
+
+</div>
+
+<br>
+
+<div align="center">
+
+## ୨୧ random facts idk ୨୧
+
+</div>
+
+<table align="center" width="90%">
+<tr>
+<td align="center">
+
+🌷<br>
+I like drawing things on computer now
+
+</td>
+
+<td align="center">
+
+🌷<br>
+I make characters and stories
+
+</td>
+
+<td align="center">
+
+🌷<br>
+I make random projects
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+╭────────────── ✦ ──────────────╮
+
+🌸 Sometimes you just want to make a simple dang project  
+but then you keep building and building until it breaks 🌸
+
+╰────────────── ✦ ──────────────╯
+
+<br><br>
+
+`｡･:*˚:✧｡` **thanks for visiting!** `｡･:*˚:✧｡`
+
+</div>
