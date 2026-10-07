@@ -14,7 +14,7 @@ coding is very fun tbh!! i can do anything with it as i please, js is lovely (as
 
 ---
 
-##  <img width="112" height="88" alt="image" src="https://github.com/user-attachments/assets/0bc8a7c4-44e9-4380-acd2-4339ad08cbb8" /> about mii
+## about mii                                                                                                               <img width="112" height="88" alt="image" src="https://github.com/user-attachments/assets/0bc8a7c4-44e9-4380-acd2-4339ad08cbb8" />
 
 
 !! dyk i have wrote like mutiple AUs based on what i wanted? like i have 3 AUs now with plenty of chapters and theres also characters from other universes
@@ -22,7 +22,7 @@ coding is very fun tbh!! i can do anything with it as i please, js is lovely (as
 !! im multifandom
 ---
 
-## [SECTION TITLE]
+## <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/6b4c6eee-5d8a-4919-9277-ce7fcd36053f" />stuff
 
 [wip]
 
