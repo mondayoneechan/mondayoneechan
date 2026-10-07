@@ -1,102 +1,42 @@
 <div align="center">
 
-  <!-- HERO TOP HEADER -->
-  <img src="[https://vercel.app](https://64.media.tumblr.com/71ed65d32b005d59d6781fb96a87cd61/0f3262fdaeb2f9a4-43/s1280x1920/4720006ed49ab17e9bd0269c4cd25913cf312054.jpg)⭐&fontSize=50&animation=twinkling&fontColor=ffffff" width="100%" />
+<img width="340" height="197" alt="image" src="https://github.com/user-attachments/assets/a6f431e2-6d1c-46c6-803c-b03847837c21" />
 
-  <p>✨ <b>programmer • artist • storywriter</b> ✨</p>
 
-  <p>
-    <img src="<img width="236" height="218" alt="image" src="https://github.com/user-attachments/assets/ea81bb18-b691-4a15-a67d-64b2433c0f67" />
-    <img src="[https://shields.io](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGhcytfb5Ty1srN2aa_XRcj9A-cNjmZR_PdOrWNoeSHqlR06QH2Yvtawk&s=10)" />
-  </p>
+# <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/e134d19c-b4be-4acc-8322-b48c3f8fc489" /> Hi, this is my intro and you can call me Mon/Monday!!
 
+### i like doing random things
+
+
+💗Like i said, im a storywriter, a learner, a coder and stuff... 
+coding is very fun tbh!! i can do anything with it as i please, js is lovely (as im inlove with js alr)
 </div>
 
 ---
 
-### 🌸 abt mi
+##  <img width="112" height="88" alt="image" src="https://github.com/user-attachments/assets/0bc8a7c4-44e9-4380-acd2-4339ad08cbb8" /> about mii
 
-<table width="100%">
-  <tr>
-    <td bgcolor="#FFF0F3" style="padding: 16px; border: 2px solid #FFB7B2; border-radius: 12px;">
-      <font color="#FF70A6">
-        <ul>
-          <li>💻 I like coding and making random projects</li>
-          <li>🎨 I draw characters and random things</li>
-          <li>📝 I write stories and random AUs</li>
-          <li>🧪 I like experimenting with stuff (and usually break them...)</li>
-          <li>🌱 Still learning</li>
-          <li>💖 Well, I guess I really love random stuff (that's positive)</li>
-        </ul>
-      </font>
-    </td>
-  </tr>
-</table>
 
+!! dyk i have wrote like mutiple AUs based on what i wanted? like i have 3 AUs now with plenty of chapters and theres also characters from other universes
+!! i have projects that i havent uploaded, like hmmmm.. should i make an example?
+!! im multifandom
 ---
 
-### 🎀 learnin
+## [SECTION TITLE]
+
+[wip]
+
+- [THING]
+- [THING]
+- [THING]
+
+---
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td bgcolor="#FFF9DB" align="center" style="padding: 15px; border: 2px solid #FFD43B; border-radius: 12px;">
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io🌀-BDB2FF?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
-</div>
 
----
+<img width="1000" height="562" alt="image" src="https://github.com/user-attachments/assets/3c4cd80c-32c4-4e94-bacf-2fc9466a25cf" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=17121F&height=100&section=footer" width="100%">
 
-### 📂 projects i made
+[SHORT MESSAGE]
 
-<table width="100%" style="border-collapse: separate; border-spacing: 6px;">
-  <tr>
-    <th bgcolor="#FFB7B2" style="padding: 12px; border-radius: 8px;"><font color="#fff">Project</font></th>
-    <th bgcolor="#FFB7B2" style="padding: 12px; border-radius: 8px;"><font color="#fff">What is it?</font></th>
-  </tr>
-  <tr>
-    <td bgcolor="#FFF0F3" align="center" style="padding: 12px; border-radius: 8px;"><b>🐔 Ayam Kalkunlater</b></td>
-    <td bgcolor="#FFF0F3" style="padding: 12px; border-radius: 8px;">An absolute peak ayam kalkunlater with light & dark mode</td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFF0F3" align="center" style="padding: 12px; border-radius: 8px;"><b>💬 ChatTime</b></td>
-    <td bgcolor="#FFF0F3" style="padding: 12px; border-radius: 8px;">A chat project with two buttons of the Crystalinks</td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFF0F3" align="center" style="padding: 12px; border-radius: 8px;"><b>🎮 CRYSTALONE</b></td>
-    <td bgcolor="#FFF0F3" style="padding: 12px; border-radius: 8px;">A choice text RPG where you play as—okay, I won't spoil it</td>
-  </tr>
-</table>
-
----
-
-### 🧸 random facts idk
-
-<table width="100%">
-  <tr>
-    <td bgcolor="#E8F8FF" style="padding: 16px; border: 2px solid #70D6FF; border-radius: 12px;">
-      <font color="#0096C7">
-        <ul>
-          <li>🎨 I like drawing, tryna draw on computer now</li>
-          <li>🎀 I make characters and stories</li>
-          <li>🧩 I make random projects</li>
-        </ul>
-        <hr style="border: 0; border-top: 1px dashed #70D6FF;" />
-        💬 <i>"Sometimes you just want to make a simple dang project but then you keep building and building until it breaks"</i>
-      </font>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <!-- DYNAMIC LIVE PASTEL PERFORMANCE GRAPH -->
-  <img src="https://vercel.app" width="100%" alt="Dreamjelly Activity Dashboard" />
 </div>
